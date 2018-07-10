@@ -1,0 +1,131 @@
+{city:{id:134566,nama:"jambi",coord:{lon:103.607254,lat :- ‎-1.609972}country": "ID",
+"population": 8540121
+},
+"cod": "200",
+"message": 0.3690192,
+"cnt": 5,
+"list": [
+{
+"dt": 1531195200,
+"temp": {
+"day": 30.83,
+"min": 26.97,
+"max": 30.83,
+"night": 26.97,
+"eve": 30.83,
+"morn": 30.83
+},
+"pressure": 1021.32,
+"humidity": 81,
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"speed": 3,
+"deg": 317,
+"clouds": 24,
+"rain": 1.86
+},
+{
+"dt": 1531281600,
+"temp": {
+"day": 27.15,
+"min": 25.3,
+"max": 28.73,
+"night": 27.62,
+"eve": 28.62,
+"morn": 25.52
+},
+"pressure": 1025.01,
+"humidity": 99,
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02d"
+}
+],
+"speed": 2.13,
+"deg": 94,
+"clouds": 24
+},
+{
+"dt": 1531368000,
+"temp": {
+"day": 27.75,
+"min": 25.89,
+"max": 29.41,
+"night": 27.3,
+"eve": 29.34,
+"morn": 26.89
+},
+"pressure": 1024.01,
+"humidity": 92,
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "sky is clear",
+"icon": "01d"
+}
+],
+"speed": 2.36,
+"deg": 121,
+"clouds": 0
+},
+{
+"dt": 1531454400,
+"temp": {
+"day": 28,
+"min": 25.72,
+"max": 29.55,
+"night": 27.21,
+"eve": 29.43,
+"morn": 25.72
+},
+"pressure": 1023.56,
+"humidity": 89,
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "sky is clear",
+"icon": "01d"
+}
+],
+"speed": 1.36,
+"deg": 183,
+"clouds": 0
+},
+{
+"dt": 1531540800,
+"temp": {
+"day": 30.22,
+"min": 25.26,
+"max": 30.22,
+"night": 25.8,
+"eve": 28.02,
+"morn": 25.26
+},
+"pressure": 1008.25,
+"humidity": 0,
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"speed": 2.45,
+"deg": 81,
+"clouds": 10,
+"rain": 0.7
+}
+]
+}
